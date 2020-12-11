@@ -1,0 +1,17 @@
+"E:\IAR\arm\bin\armproc.dll" 
+
+"E:\IAR\arm\bin\armJET.dll" 
+
+"H:\程序\定稿工程\总钻风山外库2（能用）(从板）\Prj\IAR\FN15_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin="E:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="E:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="E:\IAR\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader="E:\IAR\arm\config\flashloader\NXP\FlashK60Fxxx128K.board" 
+
+
+
+
